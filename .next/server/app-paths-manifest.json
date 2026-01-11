@@ -1,0 +1,10 @@
+{
+  "/not-found": "app/not-found.js",
+  "/threats/page": "app/threats/page.js",
+  "/page": "app/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/news/page": "app/news/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/forum/page": "app/forum/page.js",
+  "/blog/create/page": "app/blog/create/page.js"
+}
